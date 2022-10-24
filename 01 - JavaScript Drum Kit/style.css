@@ -1,7 +1,8 @@
 html {
   font-size: 10px;
-  background: url('./background.jpg') bottom center;
+  background: url('https://www.newstatesman.com/wp-content/uploads/sites/2/2021/06/2015_03_critics_film.jpg') bottom center;
   background-size: cover;
+  backdrop-filter: blur(100px);
 }
 
 body,html {
